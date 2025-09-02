@@ -14,7 +14,7 @@ NAME = libft.a
 CC = cc
 CFLAGS = -Wall -Wextra -Werror
 
-SRCS =	ft_atoi.c ft_isprint.c ft_putchar_fd.c \
+SRCS =	ft_atoi.c ft_isprint.c ft_putchar_fd.c ft_strcmp.c \
 		ft_striteri.c ft_strnstr.c ft_putnbr.c ft_putnbr_base.c ft_putptr.c \
 		ft_bzero.c ft_itoa.c ft_putendl_fd.c ft_strjoin.c ft_strrchr.c \
 		ft_calloc.c ft_memchr.c ft_putnbr_fd.c ft_strlcat.c ft_strtrim.c \
